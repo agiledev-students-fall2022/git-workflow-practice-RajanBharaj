@@ -19,3 +19,5 @@ Related to software engineering, do you think it is the fault of poor engineerin
 
 What do you think?
 
+#### Comment from Phil
+I guess one way to see there bug bounty programs is that they may be appealing to a certain audience. They may not necessarily be appealing to black hat hackers who may want to be nice - instead, they may be appealing to users who want help out - and for those people, the incentive is more of nice to have, rather than a key source of income. In a sense, these programs are giving the people who want to do good an opportunity to do good and have their concerns heard.
